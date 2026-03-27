@@ -19,9 +19,9 @@
 ## 🧠 About Me
 
 <p align="center">
-[cite_start]I'm a Frontend Developer and Computer Science student with a focus on <b>high-performance web architecture and interactive 3D motion</b>[cite: 32, 53]. <br/>
-[cite_start]Currently in my 6th semester at KFUEIT and previously a Frontend Developer at <b>Mercury Sols</b>[cite: 53, 86]. <br/>
-[cite_start]I specialize in translating complex design concepts into optimized, responsive code[cite: 34].
+I'm a Frontend Developer and Computer Science student focused on <b>high-performance web architecture and interactive 3D motion</b>. <br/>
+Currently in my 6th semester at KFUEIT and formerly a Frontend Developer at <b>Mercury Sols</b>. <br/>
+I specialize in translating design concepts into optimized, responsive code.
 </p>
 
 ---
@@ -29,17 +29,15 @@
 ## ⚡ Technical Expertise
 
 <p align="center">
-[cite_start]⚛️ Advanced React & Next.js • 🧊 3D Web (Three.js) • 🚀 Performance Optimization • 🎨 UI/UX Implementation [cite: 26, 29, 34, 54]
+⚛️ Advanced React & Next.js • 🧊 3D Web (Three.js) • 🚀 Performance Optimization • 🎨 UI/UX Implementation
 </p>
-
----
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbdulRehman938&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Abdul Rehman's GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbdulRehman938&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehman938&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
@@ -48,10 +46,11 @@
 </p>
 
 ---
+
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulRehman938&theme=react-dark&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulRehman938&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </p>
 
 ---
@@ -59,30 +58,22 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AbdulRehman938/AbdulRehman938/main/snake.svg" />
+  <img src="https://raw.githubusercontent.com/AbdulRehman938/AbdulRehman938/main/snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
 
-## [cite_start]📂 Key Projects [cite: 55, 61, 69]
+## 📂 Featured Projects
 
 <p align="center">
 <b>3D Solar System (Three.js)</b><br/>
-[cite_start]Interactive planetary animations and real-time space visuals[cite: 58].<br/><br/>
+Interactive planetary animations and real-time space visuals built with React.<br/><br/>
 
 <b>Mercury Sols Ecosystem</b><br/>
-[cite_start]Precision-crafted digital ecosystems with modern UI and seamless performance[cite: 63].<br/><br/>
+Precision-crafted digital platforms with interactive components and modern UI.<br/><br/>
 
 <b>Cartgenic LMS</b><br/>
-[cite_start]Intuitive Learning Management System with progress tracking and course management[cite: 71].
-</p>
-
----
-
-## 🎯 Current Focus
-
-<p align="center">
-Mastering Three.js • Advanced Frontend Systems • Performance Engineering • Real-World Solutions
+Learning management system with progress tracking and intuitive navigation.
 </p>
 
 ---
