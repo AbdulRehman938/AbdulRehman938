@@ -1,7 +1,7 @@
 <h1 align="center">Abdul Rehman</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=Frontend+Developer;React+%7C+Next.js;Building+Scalable+Web+Applications;Clean+Code+%7C+Performance+%7C+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=Frontend+Developer;React.js+%7C+Next.js+%7C+Three.js;Building+Interactive+Web+Experiences;Clean+Code+%7C+Performance+%7C+3D+Motion" />
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,threejs,tailwind,git,github,docker,vscode" />
 </p>
 
 ---
@@ -19,16 +19,17 @@
 ## 🧠 About Me
 
 <p align="center">
-Frontend developer passionate about building <b>scalable, maintainable, and high-performance applications</b>.<br/>
-I focus on clean code, structured architecture, and practical system design.
+[cite_start]I'm a Frontend Developer and Computer Science student with a focus on <b>high-performance web architecture and interactive 3D motion</b>[cite: 32, 53]. <br/>
+[cite_start]Currently in my 6th semester at KFUEIT and previously a Frontend Developer at <b>Mercury Sols</b>[cite: 53, 86]. <br/>
+[cite_start]I specialize in translating complex design concepts into optimized, responsive code[cite: 34].
 </p>
 
 ---
 
-## ⚡ Core Focus
+## ⚡ Technical Expertise
 
 <p align="center">
-🧩 Component Architecture • ⚛️ React & Next.js • 🚀 Performance Optimization • 🔗 API Integration
+[cite_start]⚛️ Advanced React & Next.js • 🧊 3D Web (Three.js) • 🚀 Performance Optimization • 🎨 UI/UX Implementation [cite: 26, 29, 34, 54]
 </p>
 
 ---
@@ -36,12 +37,12 @@ I focus on clean code, structured architecture, and practical system design.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AbdulRehman938&show_icons=true&theme=radical&hide_border=false&include_all_commits=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehman938&layout=compact&theme=radical&hide_border=false" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AbdulRehman938&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehman938&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulRehman938&theme=radical" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulRehman938&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -49,7 +50,7 @@ I focus on clean code, structured architecture, and practical system design.
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulRehman938&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulRehman938&theme=react-dark&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
@@ -62,25 +63,17 @@ I focus on clean code, structured architecture, and practical system design.
 
 ---
 
-## 💡 Dynamic Quote
+## [cite_start]📂 Key Projects [cite: 55, 61, 69]
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
+<b>3D Solar System (Three.js)</b><br/>
+[cite_start]Interactive planetary animations and real-time space visuals[cite: 58].<br/><br/>
 
----
+<b>Mercury Sols Ecosystem</b><br/>
+[cite_start]Precision-crafted digital ecosystems with modern UI and seamless performance[cite: 63].<br/><br/>
 
-## 📂 Selected Work
-
-<p align="center">
-<b>Node CLI + HTTP Notes App</b><br/>
-File system persistence • Manual routing • No frameworks<br/><br/>
-
-<b>React Applications</b><br/>
-Reusable components • Structured UI • Clean architecture<br/><br/>
-
-<b>Next.js Projects</b><br/>
-SSR & SSG • Scalable frontend systems • Production-ready applications
+<b>Cartgenic LMS</b><br/>
+[cite_start]Intuitive Learning Management System with progress tracking and course management[cite: 71].
 </p>
 
 ---
@@ -88,7 +81,7 @@ SSR & SSG • Scalable frontend systems • Production-ready applications
 ## 🎯 Current Focus
 
 <p align="center">
-Next.js • Frontend Architecture • System Design • Real-World Projects
+Mastering Three.js • Advanced Frontend Systems • Performance Engineering • Real-World Solutions
 </p>
 
 ---
@@ -113,5 +106,5 @@ Next.js • Frontend Architecture • System Design • Real-World Projects
 ---
 
 <p align="center">
-<b>“Build systems. Not just interfaces.”</b>
+<b>"Code is the paint. The browser is the canvas."</b>
 </p>
