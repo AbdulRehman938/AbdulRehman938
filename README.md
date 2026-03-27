@@ -1,7 +1,7 @@
 <h1 align="center">Abdul Rehman</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+Next.js+Focused;Building+Scalable+Web+Applications;Obsessed+With+Clean+Code+%26+Performance" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=00F7FF&center=true&vCenter=true&width=750&lines=Frontend+Developer;React+%7C+Next.js+Focused;Building+Scalable+Web+Applications;Clean+Code+%7C+Performance+%7C+Systems" />
 </p>
 
 <p align="center">
@@ -19,9 +19,9 @@
 ## 🧠 About Me
 
 <p align="center">
-Focused frontend developer building <b>scalable, maintainable, and performance-driven applications</b>.
+Frontend developer focused on building <b>scalable, maintainable, and performance-driven applications</b>.
 <br/><br/>
-I don’t just write UI — I build systems with structure, clarity, and long-term usability.
+I don’t chase trends — I build systems that actually work.
 </p>
 
 ---
@@ -30,35 +30,20 @@ I don’t just write UI — I build systems with structure, clarity, and long-te
 
 <p align="center">
 
-🧩 Component Architecture & Clean Code  
-⚛️ React Ecosystem & Modern JavaScript  
-🚀 Performance Optimization & UX  
-🔗 API Integration & Backend Awareness  
+🧩 Component Architecture  
+⚛️ React Ecosystem  
+🚀 Performance Optimization  
+🔗 API Integration  
 
 </p>
 
 ---
 
-## 📂 Selected Work
+## 📊 GitHub Insights (Live + Animated)
 
 <p align="center">
-<b>Node CLI + HTTP Notes App</b><br/>
-File-based persistence • Manual routing • No frameworks<br/><br/>
-
-<b>React Applications</b><br/>
-Reusable components • Routing • Structured UI systems<br/><br/>
-
-<b>Ongoing</b><br/>
-Next.js • Scalable frontend patterns • System thinking
-</p>
-
----
-
-## 📊 GitHub Insights
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbdulRehman938&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehman938&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AbdulRehman938&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehman938&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -67,10 +52,33 @@ Next.js • Scalable frontend patterns • System thinking
 
 ---
 
-## 📈 Activity Graph
+## 📈 Activity Graph (Animated Rendering)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulRehman938&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake (Animation)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AbdulRehman938/AbdulRehman938/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📂 Selected Work
+
+<p align="center">
+<b>Node CLI + HTTP Notes App</b><br/>
+File system persistence • Manual routing • No frameworks<br/><br/>
+
+<b>React Applications</b><br/>
+Reusable components • Structured UI • Clean architecture<br/><br/>
+
+<b>Currently</b><br/>
+Next.js • Scalable frontend systems
 </p>
 
 ---
@@ -79,9 +87,9 @@ Next.js • Scalable frontend patterns • System thinking
 
 <p align="center">
 
-Learning Next.js deeply (SSR, SSG)  
-Improving frontend architecture skills  
-Building real-world production-level projects  
+Next.js (SSR, SSG)  
+Frontend system design  
+Real-world production projects  
 
 </p>
 
@@ -103,7 +111,5 @@ Building real-world production-level projects
 ## ⚡ Philosophy
 
 <p align="center">
-<b>
-“Most developers chase tools. I focus on understanding systems.”
-</b>
+<b>“Most developers follow tutorials. I focus on understanding systems.”</b>
 </p>
