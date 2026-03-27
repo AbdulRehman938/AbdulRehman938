@@ -1,7 +1,7 @@
 <h1 align="center">Abdul Rehman</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=00F7FF&center=true&vCenter=true&width=750&lines=Frontend+Developer;React+%7C+Next.js+Focused;Building+Scalable+Web+Applications;Clean+Code+%7C+Performance+%7C+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=00F7FF&center=true&vCenter=true&width=750&lines=Frontend+Developer;React+%7C+Next.js;Building+Scalable+Web+Applications;Clean+Code+%7C+Performance+%7C+Systems" />
 </p>
 
 <p align="center">
@@ -16,81 +16,67 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 About
 
 <p align="center">
-Frontend developer focused on building <b>scalable, maintainable, and performance-driven applications</b>.
-<br/><br/>
-I don’t chase trends — I build systems that actually work.
+Frontend developer focused on scalable, maintainable, and performance-driven applications.
+<br/>
+Building structured systems with React and modern JavaScript.
 </p>
 
 ---
 
-## ⚡ Core Focus
+## ⚡ Focus
 
 <p align="center">
-
-🧩 Component Architecture  
-⚛️ React Ecosystem  
-🚀 Performance Optimization  
-🔗 API Integration  
-
+React Ecosystem • Component Architecture • Performance • API Integration
 </p>
 
 ---
 
-## 📊 GitHub Insights (Live + Animated)
+## 📊 GitHub Insights
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AbdulRehman938&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehman938&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AbdulRehman938&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehman938&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulRehman938&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Activity Graph (Animated Rendering)
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulRehman938&theme=react-dark&hide_border=true&area=true" />
+  <img width="60%" src="https://streak-stats.demolab.com?user=AbdulRehman938&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake (Animation)
+## 📈 Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AbdulRehman938/AbdulRehman938/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulRehman938&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
 
-## 📂 Selected Work
+## 🐍 Contributions
 
 <p align="center">
-<b>Node CLI + HTTP Notes App</b><br/>
-File system persistence • Manual routing • No frameworks<br/><br/>
-
-<b>React Applications</b><br/>
-Reusable components • Structured UI • Clean architecture<br/><br/>
-
-<b>Currently</b><br/>
-Next.js • Scalable frontend systems
+  <img src="https://raw.githubusercontent.com/AbdulRehman938/AbdulRehman938/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-## 🎯 Current Direction
+## 📂 Work
 
 <p align="center">
+Node CLI + HTTP Notes App<br/>
+React UI Systems<br/>
+Next.js (in progress)
+</p>
 
-Next.js (SSR, SSG)  
-Frontend system design  
-Real-world production projects  
+---
 
+## 🎯 Direction
+
+<p align="center">
+Next.js • System Design • Production-Level Projects
 </p>
 
 ---
@@ -108,8 +94,6 @@ Real-world production projects
 
 ---
 
-## ⚡ Philosophy
-
 <p align="center">
-<b>“Most developers follow tutorials. I focus on understanding systems.”</b>
+<b>Build systems. Not just interfaces.</b>
 </p>
