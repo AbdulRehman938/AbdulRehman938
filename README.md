@@ -9,9 +9,9 @@
 ## 🧠 About Me
 
 <p align="center">
-[cite_start]I'm a Frontend Developer and Computer Science student focused on <b>high-performance web architecture and interactive 3D motion</b>[cite: 32, 94]. <br/>
-[cite_start]Currently in my 6th semester at KFUEIT [cite: 53] [cite_start]and previously a Frontend Developer at <b>Mercury Sols</b>[cite: 86, 87]. <br/>
-[cite_start]I specialize in translating design concepts into optimized, responsive code while ensuring cross-browser compatibility[cite: 34].
+I'm a Frontend Developer and Computer Science student focused on <b>high-performance web architecture and interactive 3D motion</b>[cite: 32, 94]. <br/>
+Currently in my 6th semester at KFUEIT [cite: 53] and previously a Frontend Developer at <b>Mercury Sols</b>[cite: 86, 87]. <br/>
+I specialize in translating design concepts into optimized, responsive code while ensuring cross-browser compatibility[cite: 34].
 </p>
 
 ---
@@ -19,7 +19,7 @@
 ## ⚡ Technical Expertise
 
 <p align="center">
-[cite_start]⚛️ Advanced React & Next.js [cite: 27, 28] [cite_start]• 🧊 3D Web (Three.js) [cite: 29] [cite_start]• 🚀 Performance Optimization [cite: 34] [cite_start]• 🎨 UI/UX Implementation [cite: 54]
+⚛️ Advanced React & Next.js [cite: 27, 28] • 🧊 3D Web (Three.js) [cite: 29] • 🚀 Performance Optimization [cite: 34] • 🎨 UI/UX Implementation [cite: 54]
 </p>
 
 ---
@@ -49,13 +49,13 @@
 
 <p align="center">
 <b>3D Solar System (Three.js)</b><br/>
-[cite_start]Interactive planetary animations and immersive space visuals built with React[cite: 56, 58].<br/><br/>
+Interactive planetary animations and immersive space visuals built with React[cite: 56, 58].<br/><br/>
 
 <b>Mercury Sols Project</b><br/>
-[cite_start]Precision-crafted digital ecosystems with interactive components and a modern UI[cite: 61, 63].<br/><br/>
+Precision-crafted digital ecosystems with interactive components and a modern UI[cite: 61, 63].<br/><br/>
 
 <b>Cartgenic LMS</b><br/>
-[cite_start]Learning management system with progress tracking and intuitive user navigation[cite: 69, 71].
+Learning management system with progress tracking and intuitive user navigation[cite: 69, 71].
 </p>
 
 ---
