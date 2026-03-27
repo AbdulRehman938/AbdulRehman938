@@ -1,69 +1,109 @@
-<h1 align="center">🚀 Abdul Rehman</h1>
+<h1 align="center">Abdul Rehman</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Next.js;Building+Scalable+Web+Apps;Always+Learning+%26+Improving" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+Next.js+Focused;Building+Scalable+Web+Applications;Obsessed+With+Clean+Code+%26+Performance" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbdulRehman938&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🧠 Who Am I?
-A developer focused on **building modern UI systems**, not just pages.
-
-- 💡 I care about **performance & structure**
-- ⚡ I build projects instead of watching tutorials
-- 🎯 I aim to become a **top-tier frontend engineer**
-
----
-
-## 🛠️ Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,mysql,git,github,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 About Me
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulRehman938&theme=radical&show_icons=true" />
+Focused frontend developer building <b>scalable, maintainable, and performance-driven applications</b>.
+<br/><br/>
+I don’t just write UI — I build systems with structure, clarity, and long-term usability.
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## ⚡ Core Focus
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulRehman938&theme=react-dark" />
+
+🧩 Component Architecture & Clean Code  
+⚛️ React Ecosystem & Modern JavaScript  
+🚀 Performance Optimization & UX  
+🔗 API Integration & Backend Awareness  
+
 </p>
 
 ---
 
-## 🔥 What Makes Me Different
-- I focus on **understanding systems, not copying code**
-- I build projects with **real structure**
-- I care about **clean architecture**
+## 📂 Selected Work
+
+<p align="center">
+<b>Node CLI + HTTP Notes App</b><br/>
+File-based persistence • Manual routing • No frameworks<br/><br/>
+
+<b>React Applications</b><br/>
+Reusable components • Routing • Structured UI systems<br/><br/>
+
+<b>Ongoing</b><br/>
+Next.js • Scalable frontend patterns • System thinking
+</p>
 
 ---
 
-## 📂 Projects Snapshot
-- 🧠 Notes CLI + HTTP App (Node.js)
-- ⚛️ React-based UI systems
-- 🌐 Responsive frontend projects
+## 📊 GitHub Insights
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbdulRehman938&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehman938&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulRehman938&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 📚 Learning Roadmap
-- Next.js advanced patterns
-- Backend fundamentals
-- API design & system thinking
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulRehman938&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🎯 Current Direction
+
+<p align="center">
+
+Learning Next.js deeply (SSR, SSG)  
+Improving frontend architecture skills  
+Building real-world production-level projects  
+
+</p>
 
 ---
 
 ## 🌐 Connect
+
 <p align="center">
-<a href="https://linkedin.com/in/abdul-rehman-50a117342">LinkedIn</a> •
-<a href="mailto:iamrehman941@gmail.com">Email</a>
+  <a href="https://linkedin.com/in/abdul-rehman-50a117342">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:iamrehman941@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## ⚡ Mindset
-> Average developers consume. Good developers build. Great developers understand.
+## ⚡ Philosophy
+
+<p align="center">
+<b>
+“Most developers chase tools. I focus on understanding systems.”
+</b>
+</p>
