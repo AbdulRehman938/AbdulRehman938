@@ -1,7 +1,7 @@
 <h1 align="center">Abdul Rehman</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=00F7FF&center=true&vCenter=true&width=750&lines=Frontend+Developer;React+%7C+Next.js;Building+Scalable+Web+Applications;Clean+Code+%7C+Performance+%7C+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=Frontend+Developer;React+%7C+Next.js;Building+Scalable+Web+Applications;Clean+Code+%7C+Performance+%7C+Systems" />
 </p>
 
 <p align="center">
@@ -16,67 +16,79 @@
 
 ---
 
-## 🧠 About
+## 🧠 About Me
 
 <p align="center">
-Frontend developer focused on scalable, maintainable, and performance-driven applications.
-<br/>
-Building structured systems with React and modern JavaScript.
+Frontend developer passionate about building <b>scalable, maintainable, and high-performance applications</b>.<br/>
+I focus on clean code, structured architecture, and practical system design.
 </p>
 
 ---
 
-## ⚡ Focus
+## ⚡ Core Focus
 
 <p align="center">
-React Ecosystem • Component Architecture • Performance • API Integration
+🧩 Component Architecture • ⚛️ React & Next.js • 🚀 Performance Optimization • 🔗 API Integration
 </p>
 
 ---
 
-## 📊 GitHub Insights
+## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AbdulRehman938&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehman938&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AbdulRehman938&show_icons=true&theme=radical&hide_border=false&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehman938&layout=compact&theme=radical&hide_border=false" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=AbdulRehman938&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulRehman938&theme=tokyo-night&hide_border=true&area=true" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulRehman938&theme=radical" />
 </p>
 
 ---
 
-## 🐍 Contributions
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AbdulRehman938/AbdulRehman938/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulRehman938&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
 
-## 📂 Work
+## 🐍 Contribution Snake
 
 <p align="center">
-Node CLI + HTTP Notes App<br/>
-React UI Systems<br/>
-Next.js (in progress)
+  <img src="https://raw.githubusercontent.com/AbdulRehman938/AbdulRehman938/main/snake.svg" />
 </p>
 
 ---
 
-## 🎯 Direction
+## 💡 Dynamic Quote
 
 <p align="center">
-Next.js • System Design • Production-Level Projects
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+## 📂 Selected Work
+
+<p align="center">
+<b>Node CLI + HTTP Notes App</b><br/>
+File system persistence • Manual routing • No frameworks<br/><br/>
+
+<b>React Applications</b><br/>
+Reusable components • Structured UI • Clean architecture<br/><br/>
+
+<b>Next.js Projects</b><br/>
+SSR & SSG • Scalable frontend systems • Production-ready applications
+</p>
+
+---
+
+## 🎯 Current Focus
+
+<p align="center">
+Next.js • Frontend Architecture • System Design • Real-World Projects
 </p>
 
 ---
@@ -90,10 +102,16 @@ Next.js • System Design • Production-Level Projects
   <a href="mailto:iamrehman941@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://www.instagram.com/iam.abdul21/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/@ARehman2128">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-<b>Build systems. Not just interfaces.</b>
+<b>“Build systems. Not just interfaces.”</b>
 </p>
