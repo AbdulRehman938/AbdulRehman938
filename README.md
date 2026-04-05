@@ -9,9 +9,9 @@
 ## 🧠 About Me
 
 <p align="center">
-I'm a Frontend Developer and Computer Science student focused on <b>high-performance web architecture and interactive 3D motion</b>[cite: 32, 94]. <br/>
-Currently in my 6th semester at KFUEIT [cite: 53] and previously a Frontend Developer at <b>Mercury Sols</b>[cite: 86, 87]. <br/>
-I specialize in translating design concepts into optimized, responsive code while ensuring cross-browser compatibility[cite: 34].
+I'm a Frontend Developer and Computer Science student focused on <b>high-performance web architecture and interactive 3D motion</b>. <br/>
+Currently in my 6th semester at KFUEIT [cite: 53] and previously a Frontend Developer at <b>Mercury Sols</b>. <br/>
+I specialize in translating design concepts into optimized, responsive code while ensuring cross-browser compatibility.
 </p>
 
 ---
@@ -19,7 +19,7 @@ I specialize in translating design concepts into optimized, responsive code whil
 ## ⚡ Technical Expertise
 
 <p align="center">
-⚛️ Advanced React & Next.js [cite: 27, 28] • 🧊 3D Web (Three.js) [cite: 29] • 🚀 Performance Optimization [cite: 34] • 🎨 UI/UX Implementation [cite: 54]
+⚛️ Advanced React & Next.js • 🧊 3D Web (Three.js) • 🚀 Performance Optimization • 🎨 UI/UX Implementation
 </p>
 
 ---
@@ -49,13 +49,13 @@ I specialize in translating design concepts into optimized, responsive code whil
 
 <p align="center">
 <b>3D Solar System (Three.js)</b><br/>
-Interactive planetary animations and immersive space visuals built with React[cite: 56, 58].<br/><br/>
+Interactive planetary animations and immersive space visuals built with React.<br/><br/>
 
 <b>Mercury Sols Project</b><br/>
-Precision-crafted digital ecosystems with interactive components and a modern UI[cite: 61, 63].<br/><br/>
+Precision-crafted digital ecosystems with interactive components and a modern UI].<br/><br/>
 
 <b>Cartgenic LMS</b><br/>
-Learning management system with progress tracking and intuitive user navigation[cite: 69, 71].
+Learning management system with progress tracking and intuitive user navigation.
 </p>
 
 ---
